@@ -28,8 +28,8 @@ An ML-powered **Q&A based tool** for early detection of autism risk signals. Use
 
 ## 📫 Get in Touch
 - Email: yadavshikhar49@gamil.com  
-- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shikhar-yadav-508175338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-- Portfolio: [Your Portfolio]([https://.com](https://shikharyadav16.github.io/me))
+- LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shikhar-yadav-508175338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- Portfolio: ([https://.com](https://shikharyadav16.github.io/me))
 
 ---
 
